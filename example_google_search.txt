@@ -1,0 +1,4 @@
+curl "https://www.googleapis.com/customsearch/v1?key=AIzaSyD58Q0-1TNnq-4TQ6BAPJCkS9jPkb2wmv8&cx=005614670965887674399:-xmoquugfei&q=car"
+
+# https://cse.google.com/cse
+# http://stackoverflow.com/questions/4082966/what-are-the-alternatives-now-that-the-google-web-search-api-has-been-deprecated

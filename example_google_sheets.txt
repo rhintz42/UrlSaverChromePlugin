@@ -1,0 +1,1 @@
+curl "https://sheets.googleapis.com/v4/spreadsheets/1NYAiPjno1H26pUdTWkMAbp2tQ3pPK0P3RZJtyltQxRw/values/A2?key=AIzaSyAtSm9CDyBng-5L-_Sxro0yLY-srZBz_W8"
